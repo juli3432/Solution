@@ -19,7 +19,7 @@ namespace AutoClip
         {
             // lỗi videosound1 0kb là do chưa đổi tên file font từ japan sang china
             //  Test upload image
-            //Tests.Crawl_Test();
+            Tests.Crawl_Test();
             
             // Upload_Video.Start();
             //Parametter para = new Parametter();

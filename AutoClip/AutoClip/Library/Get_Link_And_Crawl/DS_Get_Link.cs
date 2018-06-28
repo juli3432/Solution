@@ -106,8 +106,8 @@ namespace AutoClip.Library
 
             else if (STT == 13)
             {
-                Link1 = "https://udn.com/news/cate/2/7227";
-                p.Get_udn(Link1);
+                Link1 = "https://udn.com/news/breaknews/1/7#breaknews";
+                p.Get_udn_Breaknews(Link1);
             }
             else if (STT == 14)
             {
